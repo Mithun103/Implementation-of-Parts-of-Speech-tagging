@@ -1,5 +1,7 @@
-# Implementation-of-Parts-of-Speech-tagging
 
+# Word2Vec-Based Word Embedding and Similarity Analysis
+## NAME: Mithun M S
+## REGNO:212222240067
 ## AIM:
 To implement word embedding using the Word2Vec model from Gensim, which captures semantic relationships between words by representing them in a dense vector space.
 
